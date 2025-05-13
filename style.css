@@ -1,0 +1,23 @@
+
+  h1 {
+    color: #ffffff;
+  }
+  
+  details {
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  form {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+  }
+  
+  #result {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
